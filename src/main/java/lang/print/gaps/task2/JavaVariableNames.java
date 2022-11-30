@@ -9,6 +9,7 @@ public class JavaVariableNames {
         int underscore = 10000;
         int sharp = 100000;
         int star = 1000000;
-        int baseExampleofVorname = 1000000;
+        int base = 1000000;
+        System.out.println(money+morrow+hundred+base+back+underscore+sharp+star);
     }
 }
